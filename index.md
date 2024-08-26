@@ -1,3 +1,10 @@
+#Nolan's First CS193 Homework
+
+###My Favorite things about CS193 are 
+- We only have to meet once a week
+- We do not have to buy an expensive textbook
+- We do not have exams or midterms
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
